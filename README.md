@@ -30,3 +30,4 @@ la nouvelle communauté pour les fans d'eSport !
 
 ## Changes
 * 2016-09-06 - Updated User, Post and Page resources
+* 2016-09-07 - Added Auth documentation
